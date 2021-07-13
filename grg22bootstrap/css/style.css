@@ -1,0 +1,336 @@
+main{
+    min-height: 700px;
+    height: auto;
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.d1{
+    height: 50px;
+    overflow: hidden;
+    background-color: #7FFFD4;
+}
+.d2{
+    background-color: #66CDAA !important; 
+}
+.d3{
+    background-color: rgb(233, 89, 36) !important;
+    color: #fff;
+    
+}
+.d4{
+    font-size: 20px;
+}
+.d5{
+    min-height: 175px;
+    height: auto;
+    background-color: rgba(102, 205, 170, 0.6)!important; 
+    
+}
+.d6{
+    min-height: 175px;
+    height: auto;
+    background-color: rgba(255, 127, 80, 0.6)!important; 
+    
+}
+.q1{
+    font-size: 50px;
+    color: #fff;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+
+}
+.q2{
+    color: white;
+    position: absolute;
+    left: 70px;
+    top: 110px;
+}
+
+.d7{
+    min-height: 175px;
+    height: auto;;
+    
+}
+.d10{
+    height: 475px;
+    background-color: transparent;
+}
+.k1{
+    color: orangered;
+}
+.k3{
+    font-style: italic;
+    font-size: 30px;
+}
+.k5{
+    background-color: #20B2AA;
+}
+.k7{
+    background-color: #FF7F50;
+}
+.k8{
+    background-image: url(../images/about-pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 230px;
+    height: auto;
+
+}
+.k9{
+    background-image: url(../images/about-pic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 230px;
+    height: auto;
+}
+.k10{
+    background-image: url(../images/about-pic2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 230px;
+    height: auto;
+}
+.f1{
+    min-height: 500px;
+    height: auto;
+    background-image: url(../images/process-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f2{
+    height: 200px;
+    background-image: url(../images/p-bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f3{
+    height: 200px;
+    background-image: url(../images/p-bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f4{
+    height: 200px;
+    background-image: url(../images/p-bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f5{
+    height: 200px;
+    background-image: url(../images/p-bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .Z1{
+    background-color: violet;
+    height: 800PX;
+    
+    
+    
+}
+.z2{
+    height: 600px;
+    background-color: #fff;
+    overflow: hidden;
+}
+.z3{
+    height: 600px;
+    background-color: chocolate;
+}
+body{padding: 0%;}
+
+.z7{
+    height: 230px;
+    background-image: url(../images/b1.jpg);
+   
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+    
+}
+.z8{
+    height: 150px;
+    
+    background-color: rgb(241, 235, 235);
+}
+.z9{
+    height: 220;
+    background-color: rgb(241, 235, 235);
+    
+} */
+.v1{
+    height: auto;
+    min-height: 670px;
+    background-color: white;
+}
+.v2{
+    height: auto;
+    min-height: 670px;
+    background-color: white;
+}
+.v3{
+    height: auto;
+    min-height: 670px;
+    background-color: #fff;
+}
+.v4{
+    height: 250px;
+    background-image: url(../images/b1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.v5{
+    height: auto;
+    min-height: 170px;
+    background-color: rgb(241, 235, 235);
+}
+.v6{
+    height: auto;
+    min-height: 220px;
+    background-color: rgb(241, 235, 235);
+}
+.v7{
+    height: 250px;
+    background-image: url(../images/b2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.v8{
+    height: auto;
+    min-height: 220px;
+    background-image: url(../images/b4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.v9{
+    height: 500px;
+    background-image: url(../images/b3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b8{
+    border: 10px solid green;
+  border-radius: 5px;
+}
+.n1{
+    height: 200px;
+    background-color:  rgb(233, 89, 36) ;
+}
+.c1{
+    height: 200px;
+    background-image: url(../images/portpic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c2{
+    height: 200px;
+    background-image: url(../images/portpic2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c3{
+    height: 200px;
+    background-image: url(../images/portpic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c4{
+    height: 200px;
+    background-image: url(../images/portpic4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c5{
+    height: 200px;
+    background-image: url(../images/portpic5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c6{
+    height: 200px;
+    background-image: url(../images/portpic6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c7{
+    height: 200px;
+    background-image: url(../images/portpic7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c8{
+    height: 200px;
+    background-image: url(../images/portpic8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c9{
+    height: 200px;
+    background-image: url(../images/portpic9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.n2{
+  font-size: 30px;
+}
+.n3{
+    font-size: 20px;
+}
+.m1{
+    height: 150px;
+}
+.m2{
+    height: 150px;
+}
+
+.m3{
+    height: 150px;
+}
+.m6{
+    height: 400px;
+    
+    background-color: orangered;
+}
+.m7{
+    height: 400px;
+    background-color: orangered;
+
+}
+.m8{
+    height: 200px;
+    background-color: rgb(39, 38, 38);
+    
+}
+.m9{
+    font-size: 50px;
+    color: #fff;
+    margin-left:;
+
+}
+.mn1{
+    height: 50px;
+}
+.mn2{
+    color: white;
+}
+.mn3{
+    margin-top: px;
+}
+.ml1{
+    color:#fff;
+}
+.ab{
+    height: 400px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.ab1{
+    background-color: rgb(233, 89, 36);
+    padding-top: 30px;
+    height: 400px;
+}

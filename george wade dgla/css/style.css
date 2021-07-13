@@ -1,0 +1,379 @@
+ body
+ {
+     margin: 0;
+     padding: 0;
+ }
+ .section{
+    height: 90px;
+    width: 100%;
+    background: linear-gradient(#000,#666);
+    position: sticky;
+    top: 0;
+    display: flex;
+    /* flex-wrap: wrap-reverse; */
+    justify-content: space-evenly;
+    overflow: hidden;
+    z-index: 99;
+}
+.logo{
+    height: 100px;
+    width: 130px;
+    display: flex;
+    order: 1;
+    
+}
+
+.logo img{
+    height: 90px;
+    width: 60pxpx;
+    position: absolute;
+    left: 90px;
+    top: auto;
+}
+
+nav{
+    height: 100px;
+    width: 650px;
+    display: flex;
+    order: 2;
+    flex-direction: row-reverse;
+    position: absolute;
+    right: 50px;
+    
+}
+
+nav ul{ padding: 0%; margin: 0%; list-style: none;
+   
+}
+nav ul li{
+    height: 100px;
+    width: 150px;
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    line-height: 95px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+nav ul li:hover{color: yellow;}
+
+header{
+    height: 700px;
+    width: 100%;
+    background-color: yellow;
+    overflow: hidden;
+}
+.header1{
+    height: 700px;
+    width: 100%;
+    background: url(../images/banner.jpg) no-repeat;
+    background-size: cover;
+    clip-path: circle(60% at 50% 0%);
+} 
+.search{
+    height: 60px;
+    width: 200px;
+    background-color: #000;
+    position: fixed;
+    top: 30%;
+    left: -140px;
+    border-radius: 0 15px 15px 0;
+
+}
+.search:hover{left: 0px;}
+.search img{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+.search input{
+   height: 40px;
+   width: 120px;
+   position: absolute;
+   left: 7px;
+   top: 10px;
+   border-radius: 3px;
+}
+.box{
+    height: 200px;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -70px;
+    /* overflow: hidden; */
+}
+.box1{
+    height: 200px;
+    width: 90%;
+    background-color:transparent;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.box2{
+    height: 200px;
+    width: 250px;
+    background: #fff url(../images/tennisacademy.jpg) no-repeat;
+    background-position: center;
+    border:2px solid#fddd00;
+    border-radius: 10px;
+    overflow: hidden;
+    
+}
+.box3{
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    clip-path: circle(100% at center center);
+    color: transparent;
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: bold;
+    transition: all 0.5s;
+    /* overflow: hidden; */
+    /* 20px at 0 0 */
+}
+.box3:hover{clip-path: circle(70%  at 0 0);
+    background: rgba(253,221,0,.7);
+    color: #000;
+    
+}
+.text{
+    height: 80px;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    margin-top: 0;
+}
+.text h1{
+    height: 78px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #434c9c;
+    border-bottom: 2px solid #434c9c;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0%;
+}
+.fix{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    overflow: hidden;
+}
+.fix1{
+    height: 250px;
+    width: 550px;
+    background-color: #fff;
+    color: #434c9c;
+}
+.fix2{
+    height: 250px;
+    width: 600px;
+    background-image: url(../images/about.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+/* .clip1{
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    clip-path: circle(100% at center center);
+    color: transparent;
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: bold;
+    transition: all 0.5s;
+} */
+.fix1 h1{
+    font-family: Impact, Haettenschweiler,
+     'Arial Narrow Bold', sans-serif;
+     padding: 0;
+}
+.text2{
+    height: 80px;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    margin-top: 10px;
+}
+.text2 h1{
+    height: 78px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #434c9c;
+    border-bottom: 2px solid #434c9c;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0%;
+    /* overflow: hidden; */
+    
+}
+.tap{
+    height: 250px;
+    width: 80%;
+    background-color: #fff;
+    margin: auto;
+    overflow: hidden;
+}
+.tap table{
+    width:100%;
+    height: auto;
+    border-collapse: collapse;
+
+    
+}
+.tap table tr{
+    padding: 15px;
+
+}
+.tap table tr:nth-child(even){
+    background: rgba(0,0,0,.2);
+}
+.tap table tr td{
+    border:1px solid #000;
+    border-style: hidden;
+    padding: 10px;
+    text-align: center;
+}
+.text3{
+    height: 80px;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    margin-top: 10px;
+}
+.text3 h1{
+    height: 78px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #434c9c;
+    border-bottom: 2px solid #434c9c;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0%;
+}
+.pic{
+    height: 370px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+
+}
+.pic figure{
+    height: 350px;
+    width: 25%;
+    border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.pic figure img{
+    height: 67%;
+    width: 95%;
+    margin: auto;
+
+}
+.pic figure figcaption h3{
+    padding: 0; margin: 0;
+}
+
+.pic figure p{
+    padding: 0px; margin: 0%;
+    width: 95%;
+    text-align: justify;
+}
+.asas{
+    height: 400px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.pic2{
+    height: 380px;
+    width: 80%;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.pic3{
+    height: 95%;
+    width: 49%;
+    
+}
+.pic3 img{
+    height: 100%;
+    width: 100%;
+}
+.pic4{
+    height: 95%;
+    width: 49%;
+    
+}
+.pic4 iframe{
+    height: 100%;
+    width: 100%;
+}
+.map{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+    overflow: hidden;
+
+}
+.titel{
+    height: 20px;
+    display: flex;
+    position: sticky;
+    bottom: 0%;
+    width: 100%;
+    background-color: #000;
+    overflow: hidden;
+    
+}
+.ppp{
+    color: #fff;
+    font-size: 15px;
+    line-height: 5px;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    
+}

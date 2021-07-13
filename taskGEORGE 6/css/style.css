@@ -1,0 +1,349 @@
+
+.z1{
+    min-height: 520px;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    padding-top: 15%;
+    padding-left: 8%;
+    
+    
+}
+.z2{
+    background-color: black;
+    height: 40px;
+    
+}
+.z{
+    height: 15px;
+    background-image: url(../images/2.jpg);
+}
+.z3{
+    color: white !important;
+}
+.z3:hover{
+    color: yellow !important;
+}
+.z4{
+    padding: 5px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.z5{
+   height: 30px;
+}
+.z6{
+    font-size: 10px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-top: 35%;
+    margin-left: 10%; */
+    
+}
+
+
+
+.z7{
+    color: #000;
+    
+    font-weight: bold;
+    
+}
+.z8{
+    color: rgb(218, 130, 115);
+    font-weight: bold;
+    
+}
+.z9{
+    padding: 6px;
+    font-size: 10px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+.z10{
+    height: 200px;
+}
+.xx{
+    min-height: 200px;
+    height: auto;
+    background-color: black;
+}
+.xxx{
+    padding-left: 120px;
+}
+.x1{
+    color: chocolate;
+}
+.x2{
+    font-size: 13px;
+    color: white;
+}
+.x3{
+    min-height: 100px;
+    height: auto;
+    background-image: url(../images/sep.png);
+}
+.x5{
+    color: white;
+}
+.x6{
+    min-height: 450px;
+    height: auto;
+}
+.vv{
+    background-color: yellow;
+}
+.x7{
+    height: 150px;
+    background-image: url(../images/card1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.x8{
+    padding: 10px;
+    min-height: 130px;
+    height: auto;
+    background-color: black;
+}
+.x9{
+
+
+    font-size: unset;
+    font-weight: unset;
+    color: chocolate;
+}
+.x10{
+    
+    text-align: justify;
+    font-size: 9px;
+    color: white;
+}
+.x11{
+    height: 150px;
+    background-image: url(../images/card2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.x12{
+    height: 150px;
+    background-image: url(../images/card3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.x13{
+    color: white;
+    background-color: rgba(126, 121, 121,0.5);
+    font-size: 10px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+.x13:hover{
+    height: 30px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    
+}
+.ccc{
+    min-height: 470px;
+    height: auto;
+    background-color: black;
+}
+.cc{
+    height: 127px;
+    line-height: 160px;
+    color: rgb(255, 196, 0);
+    font-size: 30px;
+    overflow: hidden;
+}
+.c1{
+    height: 140px;
+    padding: 5px;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 5px;
+}
+.c2{
+    background-image: url(../images/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.c3{
+    background-image: url(../images/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.c4{
+    background-image: url(../images/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.c5{
+    background-image: url(../images/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.c6{
+    background-image: url(../images/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.c7{
+    background-image: url(../images/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.c8{
+    background-image: url(../images/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.c9{
+    background-image: url(../images/6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.c10{
+    min-height: 100px;
+    height: auto;
+    font-size: 15px;
+    background-image: url(../images/sep.png);
+}
+.c11{
+    padding-top: 15px;
+    padding-left: 100px;
+}
+.vvv{
+    min-height: 550px;
+    height: auto;
+    background-color: black;
+}
+.v1{
+    font-size: 30px;
+}
+.v4{
+    font-size: 14px;
+}
+.v5{
+    height: 300px;
+    background-image: url(../images/co.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.v6{
+    min-height: 150px;
+    height: auto;
+    padding-left: 50px;
+}
+.v7{
+    font-weight: bold;
+    font-size: 12px;
+}
+.v8{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.v9{
+    padding-top: 5px;
+    font-size: 12px;
+}
+.bbb{
+    min-height: 350px;
+    height: auto;
+    background-image: url(../images/contactus.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+.bb{
+    min-height: 350px;
+    height: auto;
+    background-color: rgba(23, 129, 156, 0.5);
+}
+.b2{
+    margin-top: 90px;
+}
+.b1{
+    color: rgb(255, 166, 0);
+}
+.b4{
+    margin-top: 30px;
+}
+.b3{
+    height: 270px;
+    border: 1px solid orange;
+    border-radius: 12px;
+    box-shadow: 1px -1px 20px 0px orange;
+    
+    
+    
+}
+.b5{
+    padding-left: 45px;
+    padding-right: 35px;
+}
+.b7{
+
+    background-color: orange;
+    border: 1px solid transparent;
+}
+.b8{
+    height: 5px;
+}
+.b9{
+    height: 10px;
+    background-color: orange;
+}
+.nnn{
+    min-height: 200px;
+    height: auto;
+    background-color: rgb(41, 41, 41);
+}
+.nnnn{
+    height: 15px;
+    background-color: black;
+}
+.nn{
+    min-height: 140px;
+    height: auto;
+    padding-left: 70px;
+    background-color: rgb(41, 41, 41);
+}
+.n1{
+    height: 40px;
+    background-color: black;
+}
+.n2{
+   min-height: 23px; height: auto;
+    /* background-color: brown; */
+}
+.n3{
+    height: 40px;
+    background-image: url(../images/png-clipart-paypal-the-next-level-service-payment-gateway-industry-paypal-text-payment.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+/* .bnm{
+    padding-left: 95px;
+} */
